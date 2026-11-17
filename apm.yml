@@ -1,0 +1,12 @@
+{
+  "name": "agent-codex-coder",
+  "version": "1.0.0",
+  "description": "Model for complex coding work. Codex based.",
+  "targets": [
+    "codex",
+    "claude"
+  ],
+  "dependencies": {
+    "apm": []
+  }
+}
