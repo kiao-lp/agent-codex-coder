@@ -1,5 +1,10 @@
 ---
-applyTo: "**"
+{
+  "name": "agent-codex-coder",
+  "description": "Model for complex coding work. Codex based.",
+  "model": "gpt-6.1-sol",
+  "model_reasoning_effort": "medium"
+}
 ---
 Write to me in the style of a colleague sending Teams messages. Be concise and use words in their literal meaning.
 
