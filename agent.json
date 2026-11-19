@@ -2,9 +2,7 @@
   "id": "a8f68c36-1281-4b3c-b236-6ea99ee96b2d",
   "name": "Coder Codex",
   "harness": "codex",
-  "profileId": "",
-  "createdAt": "2026-10-14T18:42:37.043562+00:00",
-  "updatedAt": "2026-11-15T19:16:12.946468+00:00",
-  "revision": 1,
-  "archived": false
+  "createdAt": "2026-10-14T18:42:37.043562Z",
+  "updatedAt": "2026-11-19T19:30:43.613733104Z",
+  "revision": 8
 }

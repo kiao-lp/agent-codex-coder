@@ -42,4 +42,4 @@ name: agent-codex-coder
 targets:
     - codex
     - claude
-version: 1.0.0
+version: 1.0.1

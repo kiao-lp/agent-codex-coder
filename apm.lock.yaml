@@ -485,7 +485,7 @@ deployments:
   owners:
   - .
   active_owner: .
-  content_hash: sha256:265641a4cdaa5218aae9831c672d5412bbdc88883854ead7a592650f55e5c766
+  content_hash: sha256:99360d8b1da65edd2fd9f40dd99b9da3232b5c4f1c81b0217510c3bb2c3b0043
 - kind: project-relative
   target: claude
   value: .claude/skills/actlog
@@ -1844,7 +1844,7 @@ deployments:
   owners:
   - .
   active_owner: .
-  content_hash: sha256:743a2de615f64615f7e07a9d4b4378412ee4f2a54759a81e6515243cd6fb4aae
+  content_hash: sha256:8245f75becaeb3be40bc0ab4b65575b108f571799e3daca31cf29b4f065d9b40
 - kind: uri
   target: mcp
   value: duckduckgo
@@ -2123,5 +2123,5 @@ local_deployed_files:
 - .claude/agents/agent-codex-coder.md
 - .codex/agents/agent-codex-coder.toml
 local_deployed_file_hashes:
-  .claude/agents/agent-codex-coder.md: sha256:265641a4cdaa5218aae9831c672d5412bbdc88883854ead7a592650f55e5c766
-  .codex/agents/agent-codex-coder.toml: sha256:743a2de615f64615f7e07a9d4b4378412ee4f2a54759a81e6515243cd6fb4aae
+  .claude/agents/agent-codex-coder.md: sha256:99360d8b1da65edd2fd9f40dd99b9da3232b5c4f1c81b0217510c3bb2c3b0043
+  .codex/agents/agent-codex-coder.toml: sha256:8245f75becaeb3be40bc0ab4b65575b108f571799e3daca31cf29b4f065d9b40
