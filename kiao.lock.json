@@ -6,7 +6,7 @@
     },
     {
       "name": "mcp-hybridflow",
-      "commit": "43b9b0da780a0e9a8aaeee17cfcc7f8ae00257a2"
+      "commit": "33ac8066024dd17cb9484721bb3d0f915b88c588"
     },
     {
       "name": "mcp-markitdown",
@@ -15,18 +15,6 @@
     {
       "name": "mcp-playwright",
       "commit": "c2eb054f84253c2768ea17016d9a0ba35197d2dc"
-    },
-    {
-      "name": "skill-archdia",
-      "commit": "1fa104011f3ffb3dcbc11c8438758d3d3fb809cf"
-    },
-    {
-      "name": "skill-hybridflow",
-      "commit": "8002795af0a920040fb3adc5fa070ae2e616fb15"
-    },
-    {
-      "name": "skill-kiao-adr",
-      "commit": "c0a6314bcabc53ef4f1c29999231a014db1a8361"
     }
   ]
 }

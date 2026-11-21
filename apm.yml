@@ -4,15 +4,15 @@ dependencies:
         - path: ./.apm/resources/mcp-hybridflow
         - path: ./.apm/resources/mcp-markitdown
         - alias: archdia
-          path: ./.apm/resources/skill-archdia
+          git: git@github.com:kiao-lp/skill-archdia.git
         - alias: hybridflow
-          path: ./.apm/resources/skill-hybridflow
+          git: git@github.com:kiao-lp/skill-hybridflow.git
         - alias: kiao-adr
-          path: ./.apm/resources/skill-kiao-adr
+          git: git@github.com:kiao-lp/skill-kiao-adr.git
         - path: ./.apm/resources/mcp-playwright
 description: Model for complex coding work. Codex based.
 name: agent-codex-coder
 targets:
     - codex
     - claude
-version: 1.0.3
+version: 1.0.4
