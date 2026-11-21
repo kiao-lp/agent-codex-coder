@@ -1,23 +1,18 @@
 dependencies:
     apm:
-        - path: ./.apm/resources/mcp-cv
-        - path: ./.apm/resources/mcp-duckduckgo
         - path: ./.apm/resources/mcp-fetch
-        - path: ./.apm/resources/mcp-files
         - path: ./.apm/resources/mcp-hybridflow
         - path: ./.apm/resources/mcp-markitdown
-        - path: ./.apm/resources/mcp-papers
-        - path: ./.apm/resources/mcp-playwright
-        - path: ./.apm/resources/mcp-units
         - alias: archdia
           path: ./.apm/resources/skill-archdia
         - alias: hybridflow
           path: ./.apm/resources/skill-hybridflow
         - alias: kiao-adr
           path: ./.apm/resources/skill-kiao-adr
+        - path: ./.apm/resources/mcp-playwright
 description: Model for complex coding work. Codex based.
 name: agent-codex-coder
 targets:
     - codex
     - claude
-version: 1.0.2
+version: 1.0.3
