@@ -1,12 +1,14 @@
 dependencies:
     apm:
         - path: ./.apm/resources/mcp-fetch
-        - path: ./.apm/resources/mcp-hybridflow
+        - git: git@github.com:kiao-lp/mcp-hybridflow.git
+          ref: v1.0.4
         - path: ./.apm/resources/mcp-markitdown
         - alias: archdia
           git: git@github.com:kiao-lp/skill-archdia.git
         - alias: hybridflow
           git: git@github.com:kiao-lp/skill-hybridflow.git
+          ref: v1.0.4
         - alias: kiao-adr
           git: git@github.com:kiao-lp/skill-kiao-adr.git
         - path: ./.apm/resources/mcp-playwright
@@ -15,4 +17,4 @@ name: agent-codex-coder
 targets:
     - codex
     - claude
-version: 1.0.4
+version: 1.0.5
